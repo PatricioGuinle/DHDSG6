@@ -84,7 +84,7 @@ def install_packages(requirements_file_path):
 
 def main():
     update_path()
-    requirements_file_path = '../common/requirements.txt'
+    requirements_file_path = 'requirements.txt'
     try:
         install_packages(requirements_file_path)
     except subprocess.CalledProcessError as err:
