@@ -1,0 +1,7 @@
+Clean01: Tipo operación
+Clean02: Dummies y Superficie
+Clean03: Precios y Superficie
+Clean04: Outliers
+Clean05: Gráficos
+Clean06: Ubicaciones
+Clean07: Sanidad General y generación del dataset final
